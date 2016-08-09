@@ -2,7 +2,7 @@
 
 namespace Test\Namespaced;
 
-use Class1;
+use Test\Class1;
 
 class Class2
 {
